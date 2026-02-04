@@ -9,3 +9,4 @@ A new project that will span the PERN stack technology.
 - user authentication and authorization
 - Query optimization
 - SEO
+- Anlaytical Dashboard
