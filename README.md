@@ -10,3 +10,4 @@ A new project that will span the PERN stack technology.
 - Query optimization
 - SEO
 - Anlaytical Dashboard
+- filtering
