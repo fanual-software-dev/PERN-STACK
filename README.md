@@ -11,5 +11,6 @@ A new project that will span the PERN stack technology.
 - SEO
 - Anlaytical Dashboard
 - filtering
-- Role based access management 
+- Role based access management
+- 
 
