@@ -12,5 +12,5 @@ A new project that will span the PERN stack technology.
 - Anlaytical Dashboard
 - filtering
 - Role based access management
-- 
+
 
